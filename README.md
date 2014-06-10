@@ -5,5 +5,7 @@ DF1-3D
 
 **Contents:**
 * df1-round-mount.stl - A mounting attachment that can be secured by flat head screw
+* df-clothing-snap.stl - A mount to attach df1 to clothes, such as a t-shirt
+
 
 
